@@ -1,4 +1,27 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+
+# 👨‍💻 Teddyanto Idrus J
+
+**Sr. Technic | Information System Dept. | PT. DENSO INDONESIA**
+
+📧 teddyanto.idrus.j.a1b@ap.denso.com  
+📍 Cikarang Barat, Indonesia
+
+---
+
+## 🔧 Skills & Tools
+- React Native
+- Data Formatting & Reporting
+- System Integration (SPKL, DIPSYS)
+- Debugging & Automation
+
+---
+
+## 📂 Projects
+### 🗂️ SPKL Automation
+Automated handling and approval tracking for SPKL documents using internal DIPSYS system.
+
+### 🧾 Company Profile Integration
+Minimal setup and email-based deployment for internal company profile systems.
 
 ###
 

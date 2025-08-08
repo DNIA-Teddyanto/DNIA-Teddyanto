@@ -4,7 +4,7 @@
 **Sr. Technic | Information System Dept. | PT. DENSO INDONESIA**
 
 📍 Cikarang Barat, Indonesia
----
+
 ###
 
 <h2 align="left">About me</h2>

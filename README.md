@@ -3,7 +3,6 @@
 
 **Sr. Technic | Information System Dept. | PT. DENSO INDONESIA**
 
-📧 teddyanto.idrus.j.a1b@ap.denso.com  
 📍 Cikarang Barat, Indonesia
 
 ---
@@ -15,18 +14,6 @@
 - Debugging & Automation
 
 ---
-
-## 📂 Projects
-### 🗂️ SPKL Automation
-Automated handling and approval tracking for SPKL documents using internal DIPSYS system.
-
-### 🧾 Company Profile Integration
-Minimal setup and email-based deployment for internal company profile systems.
-
-###
-
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
 ###
 
 <h2 align="left">About me</h2>

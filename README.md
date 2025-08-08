@@ -7,12 +7,12 @@
 
 ###
 
-<h2 align="left">**About me**</h2>
+**About me**
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
-<h2 align="left">**I code with**</h2>
+**I code with**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo"  />
   <img width="12" />

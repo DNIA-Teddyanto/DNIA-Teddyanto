@@ -8,7 +8,7 @@
 ###
 
 **About me**
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since I thought "Hello World" was a virus.<br>📚 I'm currently learning how to Google better.<br>🎯 Goals: Write code that compiles on the first try (just once, please).<br>🎲 Fun fact: My code works perfectly... until someone uses it.</p>
 
 ###
 
